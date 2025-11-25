@@ -1,0 +1,5 @@
+record_id,orf_id,protein_seq,frame_index,frame_offset,strand,nuc_start,nuc_end,aa_length
+geneA_sample,geneA_sample_frame0_orf0_len21,MEVRCCCCCCCCCCCCCCCCC,0,0,+,1,63,21
+geneB_sample,geneB_sample_frame0_orf0_len45,MTMITPRLTVLLYLLLLLLLLQGSCCWRLLLLLLLLLLLLLLLLL,0,0,+,1,135,45
+geneB_sample,geneB_sample_frame0_orf1_len43,MITPRLTVLLYLLLLLLLLQGSCCWRLLLLLLLLLLLLLLLLL,0,0,+,7,135,43
+geneC_sample,geneC_sample_frame0_orf0_len41,MFGKPGKFGPKFGPKFGPGKFGPKFGTLLLLLLLLLLLLLL,0,0,+,1,123,41

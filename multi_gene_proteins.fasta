@@ -1,0 +1,8 @@
+>geneA_sample_frame0_orf0_len21 nucleotide_range=[1-63]_strand=+_frame_offset=0
+MEVRCCCCCCCCCCCCCCCCC
+>geneB_sample_frame0_orf0_len45 nucleotide_range=[1-135]_strand=+_frame_offset=0
+MTMITPRLTVLLYLLLLLLLLQGSCCWRLLLLLLLLLLLLLLLLL
+>geneB_sample_frame0_orf1_len43 nucleotide_range=[7-135]_strand=+_frame_offset=0
+MITPRLTVLLYLLLLLLLLQGSCCWRLLLLLLLLLLLLLLLLL
+>geneC_sample_frame0_orf0_len41 nucleotide_range=[1-123]_strand=+_frame_offset=0
+MFGKPGKFGPKFGPKFGPGKFGPKFGTLLLLLLLLLLLLLL
